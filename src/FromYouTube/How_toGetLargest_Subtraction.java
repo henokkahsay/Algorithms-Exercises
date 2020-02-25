@@ -4,7 +4,7 @@ public class How_toGetLargest_Subtraction {
     public static void main(String[] args) {
         //Possible Inputs are:
         // {1,2,5,6,4},{12,54,8,3,41},null,{45}
-        int[] array = {1,1,1,1,1,1};
+        int[] array = {1,1,1,1,2,1};
         System.out.println(fun6(array));
     }
 
