@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/FromYouTube/ReverseIntegerNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FromYouTube/ReverseIntegerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromYouTube/FilterCommonArrayElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +49,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,9 +63,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseIntegerNumber">
-    <configuration name="CheckingLeftSideArrayIs_Identical_or_not_to_right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromYouTube.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
+  <component name="RunManager" selected="Application.FilterCommonArrayElements">
+    <configuration name="FilterCommonArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromYouTube.FilterCommonArrayElements" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FilterCommonArrayElements" />
         <item itemvalue="Application.ReverseIntegerNumber" />
         <item itemvalue="Application.RemoveDuplicateItem" />
         <item itemvalue="Application.Return_An_ArrayElementsUsingParameters" />
         <item itemvalue="Application.How_toGetLargest_Subtraction" />
-        <item itemvalue="Application.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +154,7 @@
       <workItem from="1582612307094" duration="1143000" />
       <workItem from="1582614132884" duration="6791000" />
       <workItem from="1582698714750" duration="4741000" />
+      <workItem from="1582706288616" duration="3511000" />
     </task>
     <servers />
   </component>

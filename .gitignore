@@ -1,3 +1,5 @@
 .idea/
 .out/
 .Algorithms Exercises.iml/
+.workspace.xml/
+. .idea/workspace.xml/
