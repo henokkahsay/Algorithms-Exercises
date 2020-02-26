@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromYouTube/Return_An_ArrayElementsUsingParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromYouTube/RemoveDuplicateItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/How_toGetLargest_Subtraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/How_toGetLargest_Subtraction.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Return_An_ArrayElementsUsingParameters">
+  <component name="RunManager" selected="Application.RemoveDuplicateItem">
     <configuration name="CheckingLeftSideArrayIs_Identical_or_not_to_right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromYouTube.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
       <module name="Algorithms Exercises" />
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Largest_factor_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromYouTube.Largest_factor_number" />
+    <configuration name="RemoveDuplicateItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromYouTube.RemoveDuplicateItem" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicateItem" />
         <item itemvalue="Application.Return_An_ArrayElementsUsingParameters" />
         <item itemvalue="Application.How_toGetLargest_Subtraction" />
         <item itemvalue="Application.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
         <item itemvalue="Application.Identify_even_AND_odd_number" />
-        <item itemvalue="Application.Largest_factor_number" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,8 @@
       <workItem from="1582527771897" duration="7576000" />
       <workItem from="1582582541318" duration="6000" />
       <workItem from="1582612307094" duration="1143000" />
-      <workItem from="1582614132884" duration="6153000" />
+      <workItem from="1582614132884" duration="6791000" />
+      <workItem from="1582698714750" duration="2124000" />
     </task>
     <servers />
   </component>
