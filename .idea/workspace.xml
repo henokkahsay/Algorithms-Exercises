@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="" />
+    <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FromYouTube/ReverseIntegerNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicateItem">
+  <component name="RunManager" selected="Application.ReverseIntegerNumber">
     <configuration name="CheckingLeftSideArrayIs_Identical_or_not_to_right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromYouTube.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
       <module name="Algorithms Exercises" />
@@ -60,19 +77,6 @@
     </configuration>
     <configuration name="How_toGetLargest_Subtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromYouTube.How_toGetLargest_Subtraction" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromYouTube.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Identify_even_AND_odd_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromYouTube.Identify_even_AND_odd_number" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -110,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseIntegerNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromYouTube.ReverseIntegerNumber" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromYouTube.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseIntegerNumber" />
         <item itemvalue="Application.RemoveDuplicateItem" />
         <item itemvalue="Application.Return_An_ArrayElementsUsingParameters" />
         <item itemvalue="Application.How_toGetLargest_Subtraction" />
         <item itemvalue="Application.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
-        <item itemvalue="Application.Identify_even_AND_odd_number" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +151,7 @@
       <workItem from="1582582541318" duration="6000" />
       <workItem from="1582612307094" duration="1143000" />
       <workItem from="1582614132884" duration="6791000" />
-      <workItem from="1582698714750" duration="2382000" />
+      <workItem from="1582698714750" duration="3910000" />
     </task>
     <servers />
   </component>
