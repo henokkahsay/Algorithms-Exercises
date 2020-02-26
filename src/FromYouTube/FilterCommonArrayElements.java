@@ -9,7 +9,7 @@ public class FilterCommonArrayElements {
 //{},{1,2,3}
 //{1,2},{}
 //{1,2},{}
-//{1,2},null
+//{1,2},null...but null is not working he didn't see it
 
     public static void main(String[] args) {
 int[] sample1={1,2};

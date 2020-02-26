@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromYouTube/FilterCommonArrayElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FromYouTube/FilterCommonArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FromYouTube/FilterCommonArrayElements.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +152,7 @@
       <workItem from="1582612307094" duration="1143000" />
       <workItem from="1582614132884" duration="6791000" />
       <workItem from="1582698714750" duration="4741000" />
-      <workItem from="1582706288616" duration="3511000" />
+      <workItem from="1582706288616" duration="3812000" />
     </task>
     <servers />
   </component>
