@@ -8,7 +8,7 @@ public class ReverseIntegerNumber {
 // 0
 // -12345
     public static void main(String[] args) {
-        int sampleData=100000;
+        int sampleData=100000 ;
 
         int result=reverseGivenInteger(sampleData);
 
