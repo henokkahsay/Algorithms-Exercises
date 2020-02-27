@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromProgramizwebsiteExercises/ToAddTwoIntegers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToAddTwoIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntegerEnteredByUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/MultiplyTwoFloatingPointNumbers.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToAddTwoIntegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/MultiplyTwoFloatingPointNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -81,6 +86,7 @@
         <option value="$PROJECT_DIR$/src/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToAddTwoIntegers.java" />
+        <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/MultiplyTwoFloatingPointNumbers.java" />
       </list>
     </option>
   </component>
@@ -152,9 +158,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ToAddTwoIntegers">
-    <configuration name="CheckingLeftSideArrayIs_Identical_or_not_to_right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromYouTube.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
+  <component name="RunManager" selected="Application.MultiplyTwoFloatingPointNumbers">
+    <configuration name="DifferenceOfOddAndEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromYouTube.DifferenceOfOddAndEvenSum" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -166,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DifferenceOfOddAndEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromYouTube.DifferenceOfOddAndEvenSum" />
+    <configuration name="MultiplyTwoFloatingPointNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.MultiplyTwoFloatingPointNumbers" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FromYouTube.*" />
+          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplyTwoFloatingPointNumbers" />
         <item itemvalue="Application.ToAddTwoIntegers" />
         <item itemvalue="Application.ToPrintAnIntegerEnteredByUser" />
         <item itemvalue="Application.DifferenceOfOddAndEvenSum" />
         <item itemvalue="Application.RemoveDuplicateItem" />
-        <item itemvalue="Application.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
       </list>
     </recent_temporary>
   </component>
@@ -244,12 +250,12 @@
       <workItem from="1582614132884" duration="6791000" />
       <workItem from="1582698714750" duration="4741000" />
       <workItem from="1582706288616" duration="4412000" />
-      <workItem from="1582790807151" duration="4270000" />
+      <workItem from="1582790807151" duration="4671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4270000" />
+    <option name="totallyTimeSpent" value="4671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="699" y="31" width="857" height="824" extended-state="0" />
@@ -260,7 +266,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2647428" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2647428" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -269,7 +275,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.2716763" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.2716763" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32947975" />
@@ -360,8 +366,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToAddTwoIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/MultiplyTwoFloatingPointNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
