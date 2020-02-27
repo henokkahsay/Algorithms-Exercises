@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromYouTube/DifferenceOfOddAndEvenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/FilterCommonArrayElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/FilterCommonArrayElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/How_toGetLargest_Subtraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/How_toGetLargest_Subtraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Identify_even_AND_odd_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Identify_even_AND_odd_number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Largest_factor_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Largest_factor_number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/RemoveDuplicateItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/RemoveDuplicateItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Return_An_ArrayElementsUsingParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Return_An_ArrayElementsUsingParameters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/ReverseIntegerNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/ReverseIntegerNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/META-INF/Algorithms Exercises.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FromYouTube/Largest_factor_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FromYouTube/Largest_factor_number.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,32 +29,22 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="DockManager">
-    <window id="3">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/FromYouTube/DifferenceOfOddAndEvenSum.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="340">
-                    <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="204">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -87,6 +66,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/FromYouTube/Largest_factor_number.java" />
         <option value="$PROJECT_DIR$/src/FromYouTube/DifferenceOfOddAndEvenSum.java" />
+        <option value="$PROJECT_DIR$/src/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.java" />
+        <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.java" />
       </list>
     </option>
   </component>
@@ -119,7 +100,7 @@
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms Exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FromYouTube" type="462c0819:PsiDirectoryNode" />
+              <item name="FromProgramizwebsiteExercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DifferenceOfOddAndEvenSum">
+  <component name="RunManager" selected="Application.ToAddTwoIntegers">
     <configuration name="CheckingLeftSideArrayIs_Identical_or_not_to_right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromYouTube.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
       <module name="Algorithms Exercises" />
@@ -185,32 +166,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterCommonArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromYouTube.FilterCommonArrayElements" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromYouTube.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Largest_factor_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromYouTube.Largest_factor_number" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromYouTube.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RemoveDuplicateItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromYouTube.RemoveDuplicateItem" />
       <module name="Algorithms Exercises" />
@@ -224,13 +179,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ToAddTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ToAddTwoIntegers" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToPrintAnIntergerEnteredByUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ToPrintAnIntergerEnteredByUser" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToAddTwoIntegers" />
+        <item itemvalue="Application.ToPrintAnIntergerEnteredByUser" />
         <item itemvalue="Application.DifferenceOfOddAndEvenSum" />
         <item itemvalue="Application.RemoveDuplicateItem" />
         <item itemvalue="Application.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
-        <item itemvalue="Application.Largest_factor_number" />
-        <item itemvalue="Application.FilterCommonArrayElements" />
       </list>
     </recent_temporary>
   </component>
@@ -250,12 +231,12 @@
       <workItem from="1582614132884" duration="6791000" />
       <workItem from="1582698714750" duration="4741000" />
       <workItem from="1582706288616" duration="4412000" />
-      <workItem from="1582790807151" duration="2492000" />
+      <workItem from="1582790807151" duration="3941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2492000" />
+    <option name="totallyTimeSpent" value="3941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="699" y="31" width="857" height="824" extended-state="0" />
@@ -266,7 +247,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.122961104" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2647428" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -343,17 +324,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.java">
+    <entry file="file://$PROJECT_DIR$/src/FromYouTube/DifferenceOfOddAndEvenSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="102">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FromYouTube/DifferenceOfOddAndEvenSum.java">
+    <entry file="file://$PROJECT_DIR$/src/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
