@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromProgramizwebsiteExercises/ToAddTwoIntegers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToAddTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntegerEnteredByUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntegerEnteredByUser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToAddTwoIntegers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -68,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/FromYouTube/DifferenceOfOddAndEvenSum.java" />
         <option value="$PROJECT_DIR$/src/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.java" />
+        <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToAddTwoIntegers.java" />
       </list>
     </option>
   </component>
@@ -192,8 +205,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToPrintAnIntergerEnteredByUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ToPrintAnIntergerEnteredByUser" />
+    <configuration name="ToPrintAnIntegerEnteredByUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ToPrintAnIntegerEnteredByUser" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -208,7 +221,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ToAddTwoIntegers" />
-        <item itemvalue="Application.ToPrintAnIntergerEnteredByUser" />
+        <item itemvalue="Application.ToPrintAnIntegerEnteredByUser" />
         <item itemvalue="Application.DifferenceOfOddAndEvenSum" />
         <item itemvalue="Application.RemoveDuplicateItem" />
         <item itemvalue="Application.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
@@ -231,12 +244,12 @@
       <workItem from="1582614132884" duration="6791000" />
       <workItem from="1582698714750" duration="4741000" />
       <workItem from="1582706288616" duration="4412000" />
-      <workItem from="1582790807151" duration="3941000" />
+      <workItem from="1582790807151" duration="4270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3941000" />
+    <option name="totallyTimeSpent" value="4270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="699" y="31" width="857" height="824" extended-state="0" />
@@ -338,10 +351,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntergerEnteredByUser.java">
+    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToPrintAnIntegerEnteredByUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToAddTwoIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>

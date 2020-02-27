@@ -3,7 +3,7 @@ package FromProgramizwebsiteExercises;
 
 import java.util.Scanner;
 
-public class ToPrintAnIntergerEnteredByUser {
+public class ToPrintAnIntegerEnteredByUser {
 
     public static void main(String[] args) {
 
