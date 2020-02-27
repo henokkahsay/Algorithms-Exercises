@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/FromYouTube/FilterCommonArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FromYouTube/FilterCommonArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromYouTube/DifferenceOfOddAndEvenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/FilterCommonArrayElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/FilterCommonArrayElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/How_toGetLargest_Subtraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/How_toGetLargest_Subtraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Identify_even_AND_odd_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Identify_even_AND_odd_number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Largest_factor_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Largest_factor_number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/RemoveDuplicateItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/RemoveDuplicateItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Return_An_ArrayElementsUsingParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/Return_An_ArrayElementsUsingParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/ReverseIntegerNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromYouTube/ReverseIntegerNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/META-INF/Algorithms Exercises.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FromYouTube/Largest_factor_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FromYouTube/Largest_factor_number.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +36,42 @@
     <expand />
     <select />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="DockManager">
+    <window id="3">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/FromYouTube/DifferenceOfOddAndEvenSum.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="340">
+                    <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -34,13 +82,59 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/FromYouTube/Largest_factor_number.java" />
+        <option value="$PROJECT_DIR$/src/FromYouTube/DifferenceOfOddAndEvenSum.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="873" />
+    <option name="y" value="38" />
+    <option name="width" value="1072" />
+    <option name="height" value="1030" />
+  </component>
   <component name="ProjectId" id="1YFA3R50xglsifpkE2gK0Upw9TQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FromYouTube" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="C:/sdk-tools-windows-4333796" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,6 +142,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -61,7 +158,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FilterCommonArrayElements">
+  <component name="RunManager" selected="Application.DifferenceOfOddAndEvenSum">
+    <configuration name="CheckingLeftSideArrayIs_Identical_or_not_to_right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromYouTube.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromYouTube.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DifferenceOfOddAndEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromYouTube.DifferenceOfOddAndEvenSum" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromYouTube.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FilterCommonArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromYouTube.FilterCommonArrayElements" />
       <module name="Algorithms Exercises" />
@@ -75,8 +198,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="How_toGetLargest_Subtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromYouTube.How_toGetLargest_Subtraction" />
+    <configuration name="Largest_factor_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromYouTube.Largest_factor_number" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -101,39 +224,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Return_An_ArrayElementsUsingParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromYouTube.Return_An_ArrayElementsUsingParameters" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromYouTube.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseIntegerNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromYouTube.ReverseIntegerNumber" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromYouTube.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FilterCommonArrayElements" />
-        <item itemvalue="Application.ReverseIntegerNumber" />
+        <item itemvalue="Application.DifferenceOfOddAndEvenSum" />
         <item itemvalue="Application.RemoveDuplicateItem" />
-        <item itemvalue="Application.Return_An_ArrayElementsUsingParameters" />
-        <item itemvalue="Application.How_toGetLargest_Subtraction" />
+        <item itemvalue="Application.CheckingLeftSideArrayIs_Identical_or_not_to_right" />
+        <item itemvalue="Application.Largest_factor_number" />
+        <item itemvalue="Application.FilterCommonArrayElements" />
       </list>
     </recent_temporary>
   </component>
@@ -152,9 +249,48 @@
       <workItem from="1582612307094" duration="1143000" />
       <workItem from="1582614132884" duration="6791000" />
       <workItem from="1582698714750" duration="4741000" />
-      <workItem from="1582706288616" duration="3812000" />
+      <workItem from="1582706288616" duration="4412000" />
+      <workItem from="1582790807151" duration="2492000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2492000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="699" y="31" width="857" height="824" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.122961104" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.2716763" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32947975" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -165,11 +301,132 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/FromYouTube/RemoveDuplicateItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromYouTube/Largest_factor_number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromYouTube/CheckingLeftSideArrayIs_Identical_or_not_to_right.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromYouTube/DifferenceOfOddAndEvenSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
