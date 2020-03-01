@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckAlphabetOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,15 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToFindAsciiValueOfACharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SwapTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,11 +75,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckPositiveNegative.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckAlphabetOrNot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -151,12 +152,13 @@
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckEvenAndOdd.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckPostiveNegative.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckPositiveNegative.java" />
+        <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckAlphabetOrNot.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1110" />
-    <option name="y" value="58" />
+    <option name="x" value="1120" />
+    <option name="y" value="102" />
     <option name="width" value="895" />
     <option name="height" value="1030" />
   </component>
@@ -227,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckPositiveNegative">
+  <component name="RunManager" selected="Application.ToCheckAlphabetOrNot">
     <configuration name="CheckPositiveNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CheckPositiveNegative" />
       <module name="Algorithms Exercises" />
@@ -241,8 +243,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.LeapYear" />
+    <configuration name="QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.QuadraticEquation" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -254,8 +256,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.QuadraticEquation" />
+    <configuration name="ToCheckAlphabetOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ToCheckAlphabetOrNot" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -295,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToCheckAlphabetOrNot" />
         <item itemvalue="Application.CheckPositiveNegative" />
         <item itemvalue="Application.QuadraticEquation" />
         <item itemvalue="Application.ToFindAsciiValueOfACharacter" />
         <item itemvalue="Application.ToCheckEvenAndOdd" />
-        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -323,15 +325,16 @@
       <workItem from="1582875207610" duration="8466000" />
       <workItem from="1582896691722" duration="766000" />
       <workItem from="1582897688561" duration="1449000" />
-      <workItem from="1583048896872" duration="2809000" />
+      <workItem from="1583048896872" duration="3823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21112000" />
+    <option name="totallyTimeSpent" value="22126000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="888" y="47" width="716" height="824" extended-state="0" />
+    <frame x="896" y="82" width="716" height="824" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -562,8 +565,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckPositiveNegative.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckAlphabetOrNot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
