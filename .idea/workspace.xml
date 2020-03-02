@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="" />
+    <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ProgramToReverseANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,15 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/GenerateMultiplicationTable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayFibonacciSeries.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CountNumberOfDigits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ProgramToReverseANumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -156,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/FindGcdOfTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayUppercasedAtoZ.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CountNumberOfDigits.java" />
+        <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ProgramToReverseANumber.java" />
       </list>
     </option>
   </component>
@@ -232,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountNumberOfDigits">
+  <component name="RunManager" selected="Application.ProgramToReverseANumber">
     <configuration name="CountNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CountNumberOfDigits" />
       <module name="Algorithms Exercises" />
@@ -285,8 +289,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenerateMultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.GenerateMultiplicationTable" />
+    <configuration name="ProgramToReverseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ProgramToReverseANumber" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -300,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgramToReverseANumber" />
         <item itemvalue="Application.CountNumberOfDigits" />
         <item itemvalue="Application.DisplayUppercasedAtoZ" />
         <item itemvalue="Application.FindGcdOfTwoNumbers" />
         <item itemvalue="Application.DisplayFibonacciSeries" />
-        <item itemvalue="Application.GenerateMultiplicationTable" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +338,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34242000" />
+    <option name="totallyTimeSpent" value="34766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="765" y="9" width="716" height="824" extended-state="0" />
@@ -354,8 +358,8 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.4552023" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.39884394" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.422252" />
+      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.42919075" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32658958" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -439,6 +443,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ProgramToReverseANumber.java</url>
+          <line>3</line>
+          <properties class="FromProgramizwebsiteExercises.ProgramToReverseANumber" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -667,6 +679,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ProgramToReverseANumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
