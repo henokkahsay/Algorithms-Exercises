@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CalculatePowerOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckPalidrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,15 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayFibonacciSeries.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/QuadraticEquation.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CalculatePowerOfNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckPalidrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -160,10 +160,12 @@
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayUppercasedAtoZ.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CountNumberOfDigits.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CalculatePowerOfNumber.java" />
+        <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckPalidromeUsing.java" />
+        <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckPalidrome.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="955" />
     <option name="y" value="10" />
     <option name="width" value="895" />
@@ -236,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalculatePowerOfNumber">
+  <component name="RunManager" selected="Application.ToCheckPalidrome">
     <configuration name="CalculatePowerOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CalculatePowerOfNumber" />
       <module name="Algorithms Exercises" />
@@ -252,19 +254,6 @@
     </configuration>
     <configuration name="CountNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CountNumberOfDigits" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DisplayFibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.DisplayFibonacciSeries" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -302,13 +291,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ToCheckPalidrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ToCheckPalidrome" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToCheckPalidrome" />
         <item itemvalue="Application.CalculatePowerOfNumber" />
         <item itemvalue="Application.CountNumberOfDigits" />
         <item itemvalue="Application.DisplayUppercasedAtoZ" />
         <item itemvalue="Application.FindGcdOfTwoNumbers" />
-        <item itemvalue="Application.DisplayFibonacciSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -334,15 +336,15 @@
       <workItem from="1582897688561" duration="1449000" />
       <workItem from="1583048896872" duration="11941000" />
       <workItem from="1583147526872" duration="2179000" />
-      <workItem from="1583216142043" duration="1861000" />
+      <workItem from="1583216142043" duration="2790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36178000" />
+    <option name="totallyTimeSpent" value="37107000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="764" y="8" width="716" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -350,7 +352,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.12348993" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2804878" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3297587" />
@@ -359,7 +361,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.422252" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.4552023" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39812332" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32658958" />
@@ -452,6 +454,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckPalidrome.java</url>
+          <line>3</line>
+          <properties class="FromProgramizwebsiteExercises.ToCheckPalidrome" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -689,7 +699,14 @@
     <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CalculatePowerOfNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckPalidrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
         </state>
       </provider>
     </entry>
