@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayPrimeNumbersBetweenIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayyArmstrongNumberBetweenIntervals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,15 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayUppercasedAtoZ.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CountNumberOfDigits.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayPrimeNumbersBetweenIntervals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayyArmstrongNumberBetweenIntervals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -166,14 +166,14 @@
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayPrimeNumber.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckArmstrongNumber.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayPrimeNumbersBetweenIntervals.java" />
+        <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayyArmstrongNumberBetweenIntervals.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="77" />
+    <option name="x" value="-4" />
     <option name="width" value="895" />
-    <option name="height" value="1033" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectId" id="1YFA3R50xglsifpkE2gK0Upw9TQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -242,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DisplayPrimeNumbersBetweenIntervals">
+  <component name="RunManager" selected="Application.DisplayyArmstrongNumberBetweenIntervals">
     <configuration name="CheckArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CheckArmstrongNumber" />
       <module name="Algorithms Exercises" />
@@ -295,8 +295,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToCheckPalidrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ToCheckPalidrome" />
+    <configuration name="DisplayyArmstrongNumberBetweenIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.DisplayyArmstrongNumberBetweenIntervals" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -310,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DisplayyArmstrongNumberBetweenIntervals" />
         <item itemvalue="Application.DisplayPrimeNumbersBetweenIntervals" />
         <item itemvalue="Application.CheckArmstrongNumber" />
         <item itemvalue="Application.DisplayPrimeNumber" />
         <item itemvalue="Application.CheckPrimeNumber" />
-        <item itemvalue="Application.ToCheckPalidrome" />
       </list>
     </recent_temporary>
   </component>
@@ -340,15 +340,15 @@
       <workItem from="1582897688561" duration="1449000" />
       <workItem from="1583048896872" duration="11941000" />
       <workItem from="1583147526872" duration="2179000" />
-      <workItem from="1583216142043" duration="7925000" />
+      <workItem from="1583216142043" duration="9685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42242000" />
+    <option name="totallyTimeSpent" value="44002000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="62" width="716" height="826" extended-state="0" />
+    <frame x="-3" y="0" width="716" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -365,8 +365,8 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.34726223" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.3645533" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32249323" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.18834688" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32658958" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -743,8 +743,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayPrimeNumbersBetweenIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayyArmstrongNumberBetweenIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
