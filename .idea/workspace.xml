@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SimpleCalculatorUsingSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckWhetherNumberCanExpperessedAsSumOf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,15 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ToCheckPalidrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckPrimeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SimpleCalculatorUsingSwitch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="663">
+              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckWhetherNumberCanExpperessedAsSumOf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -169,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayyArmstrongNumberBetweenIntervals.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayFactorsOfNumber.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SimpleCalculatorUsingSwitch.java" />
+        <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckWhetherNumberCanExpperessedAsSumOf.java" />
       </list>
     </option>
   </component>
@@ -245,9 +246,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleCalculatorUsingSwitch">
-    <configuration name="CheckArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CheckArmstrongNumber" />
+  <component name="RunManager" selected="Application.CheckWhetherNumberCanExpperessedAsSumOf">
+    <configuration name="CheckWhetherNumberCanExpperessedAsSumOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CheckWhetherNumberCanExpperessedAsSumOf" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -313,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckWhetherNumberCanExpperessedAsSumOf" />
         <item itemvalue="Application.SimpleCalculatorUsingSwitch" />
         <item itemvalue="Application.DisplayFactorsOfNumber" />
         <item itemvalue="Application.DisplayyArmstrongNumberBetweenIntervals" />
         <item itemvalue="Application.DisplayPrimeNumbersBetweenIntervals" />
-        <item itemvalue="Application.CheckArmstrongNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -344,12 +345,12 @@
       <workItem from="1583048896872" duration="11941000" />
       <workItem from="1583147526872" duration="2179000" />
       <workItem from="1583216142043" duration="10471000" />
-      <workItem from="1583301814166" duration="1481000" />
+      <workItem from="1583301814166" duration="2482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46269000" />
+    <option name="totallyTimeSpent" value="47270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="783" y="46" width="716" height="871" extended-state="0" />
@@ -768,8 +769,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SimpleCalculatorUsingSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="663">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckWhetherNumberCanExpperessedAsSumOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
         </state>
       </provider>
     </entry>
