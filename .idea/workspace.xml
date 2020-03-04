@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SumOFNaturalNumberUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/GcdOfTwoNumbersUsingRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,15 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/DisplayPrimeNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckArmstrongNumber.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SumOFNaturalNumberUsingRecursion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/GcdOfTwoNumbersUsingRecursion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -171,14 +171,15 @@
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SimpleCalculatorUsingSwitch.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CheckWhetherNumberCanExpperessedAsSumOf.java" />
         <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SumOFNaturalNumberUsingRecursion.java" />
+        <option value="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/GcdOfTwoNumbersUsingRecursion.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1057" />
-    <option name="y" value="47" />
-    <option name="width" value="895" />
-    <option name="height" value="1089" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectId" id="1YFA3R50xglsifpkE2gK0Upw9TQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -247,7 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumOFNaturalNumberUsingRecursion">
+  <component name="RunManager" selected="Application.GcdOfTwoNumbersUsingRecursion">
     <configuration name="CheckWhetherNumberCanExpperessedAsSumOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CheckWhetherNumberCanExpperessedAsSumOf" />
       <module name="Algorithms Exercises" />
@@ -274,8 +275,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayyArmstrongNumberBetweenIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.DisplayyArmstrongNumberBetweenIntervals" />
+    <configuration name="GcdOfTwoNumbersUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.GcdOfTwoNumbersUsingRecursion" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -315,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GcdOfTwoNumbersUsingRecursion" />
         <item itemvalue="Application.SumOFNaturalNumberUsingRecursion" />
         <item itemvalue="Application.CheckWhetherNumberCanExpperessedAsSumOf" />
         <item itemvalue="Application.SimpleCalculatorUsingSwitch" />
         <item itemvalue="Application.DisplayFactorsOfNumber" />
-        <item itemvalue="Application.DisplayyArmstrongNumberBetweenIntervals" />
       </list>
     </recent_temporary>
   </component>
@@ -346,22 +347,23 @@
       <workItem from="1583048896872" duration="11941000" />
       <workItem from="1583147526872" duration="2179000" />
       <workItem from="1583216142043" duration="10471000" />
-      <workItem from="1583301814166" duration="4046000" />
+      <workItem from="1583301814166" duration="5045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48834000" />
+    <option name="totallyTimeSpent" value="49833000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="782" height="878" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.12751678" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2631579" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3297587" />
@@ -441,10 +443,10 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SumOFNaturalNumberUsingRecursion.java</url>
-          <line>10</line>
+          <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/GcdOfTwoNumbersUsingRecursion.java</url>
+          <line>4</line>
           <properties />
-          <option name="timeStamp" value="45" />
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/FindGcdOfTwoNumbers.java</url>
@@ -511,6 +513,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>num+addNumbers(num-1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>low</expression-string>
         <language-id>JAVA</language-id>
@@ -797,8 +804,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SumOFNaturalNumberUsingRecursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/GcdOfTwoNumbersUsingRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
