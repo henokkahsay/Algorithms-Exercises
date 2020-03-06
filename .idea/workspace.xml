@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/FindLargestElementInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,8 +102,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/FindLargestElementInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -356,23 +353,22 @@
       <workItem from="1583301814166" duration="5915000" />
       <workItem from="1583392534695" duration="2804000" />
       <workItem from="1583476734354" duration="13000" />
-      <workItem from="1583476865550" duration="1805000" />
+      <workItem from="1583476865550" duration="2200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56767000" />
+    <option name="totallyTimeSpent" value="57162000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-64" y="1" width="716" height="859" extended-state="0" />
-    <editor active="true" />
+    <frame x="-30" y="6" width="716" height="859" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.051829267" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.051829267" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.3297587" />
@@ -381,8 +377,8 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.34986594" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.5469169" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.34938103" />
+      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.54607975" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32658958" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -504,6 +500,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/FindLargestElementInArray.java</url>
+          <line>4</line>
+          <properties class="FromProgramizwebsiteExercises.FindLargestElementInArray" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -877,8 +881,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/FindLargestElementInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
