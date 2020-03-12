@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/AddTwoComplexNumbersByPassingClassToFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/Time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +38,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="95" />
+    <option name="y" value="10" />
+    <option name="width" value="900" />
+    <option name="height" value="1025" />
+  </component>
   <component name="ProjectId" id="1YFA3R50xglsifpkE2gK0Upw9TQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -70,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddTwoComplexNumbersByPassingClassToFunction">
+  <component name="RunManager" selected="Application.Time">
     <configuration name="AddTwoComplexNumbersByPassingClassToFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.AddTwoComplexNumbersByPassingClassToFunction" />
       <module name="Algorithms Exercises" />
@@ -123,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTransposeOfMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.FindTransposeOfMatrix" />
+    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.Time" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Time" />
         <item itemvalue="Application.AddTwoComplexNumbersByPassingClassToFunction" />
         <item itemvalue="Application.FindFrequencyOfCharacterInString" />
         <item itemvalue="Application.CheckWhetherNumberCanExpperessedAsSumOf" />
         <item itemvalue="Application.CalculateThePowerUsingRecursion" />
-        <item itemvalue="Application.FindTransposeOfMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +187,7 @@
       <workItem from="1583913365322" duration="21000" />
       <workItem from="1583913544589" duration="465000" />
       <workItem from="1583997360854" duration="130000" />
+      <workItem from="1584000891332" duration="511000" />
     </task>
     <servers />
   </component>
