@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ArraySet.java" afterDir="false" />
-    </list>
+    <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +189,7 @@
       <workItem from="1583913544589" duration="465000" />
       <workItem from="1583997360854" duration="130000" />
       <workItem from="1584000891332" duration="7172000" />
-      <workItem from="1584021186892" duration="2065000" />
+      <workItem from="1584021186892" duration="2674000" />
     </task>
     <servers />
   </component>
