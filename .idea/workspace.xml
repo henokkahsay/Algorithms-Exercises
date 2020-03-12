@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CountNumberOfVowelsAndConsonantsInSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/SortElementsInLexicographicalOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromProgramizwebsiteExercises/FindFrequencyOfCharacterInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromProgramizwebsiteExercises/FindFrequencyOfCharacterInString.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountNumberOfVowelsAndConsonantsInSentence">
+  <component name="RunManager" selected="Application.SortElementsInLexicographicalOrder">
     <configuration name="CalculateThePowerUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CalculateThePowerUsingRecursion" />
       <module name="Algorithms Exercises" />
@@ -124,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTransposeOfMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.FindTransposeOfMatrix" />
+    <configuration name="SortElementsInLexicographicalOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.SortElementsInLexicographicalOrder" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortElementsInLexicographicalOrder" />
         <item itemvalue="Application.CountNumberOfVowelsAndConsonantsInSentence" />
         <item itemvalue="Application.FindFrequencyOfCharacterInString" />
         <item itemvalue="Application.CheckWhetherNumberCanExpperessedAsSumOf" />
         <item itemvalue="Application.CalculateThePowerUsingRecursion" />
-        <item itemvalue="Application.FindTransposeOfMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +180,7 @@
       <workItem from="1583740307644" duration="6000" />
       <workItem from="1583913365322" duration="21000" />
       <workItem from="1583913544589" duration="465000" />
-      <workItem from="1583997360854" duration="808000" />
+      <workItem from="1583997360854" duration="1584000" />
     </task>
     <servers />
   </component>
