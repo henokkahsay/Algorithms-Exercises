@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/FindFrequencyOfCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/AddTwoComplexNumbersByPassingClassToFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +70,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindFrequencyOfCharacterInString">
+  <component name="RunManager" selected="Application.AddTwoComplexNumbersByPassingClassToFunction">
+    <configuration name="AddTwoComplexNumbersByPassingClassToFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.AddTwoComplexNumbersByPassingClassToFunction" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculateThePowerUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CalculateThePowerUsingRecursion" />
       <module name="Algorithms Exercises" />
@@ -123,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplyToMatrixUsingMultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.MultiplyToMatrixUsingMultiDimensionalArray" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddTwoComplexNumbersByPassingClassToFunction" />
         <item itemvalue="Application.FindFrequencyOfCharacterInString" />
         <item itemvalue="Application.CheckWhetherNumberCanExpperessedAsSumOf" />
         <item itemvalue="Application.CalculateThePowerUsingRecursion" />
         <item itemvalue="Application.FindTransposeOfMatrix" />
-        <item itemvalue="Application.MultiplyToMatrixUsingMultiDimensionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -258,14 +258,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CalculateThePowerUsingRecursion.java</url>
-          <line>3</line>
-          <properties class="FromProgramizwebsiteExercises.CalculateAverageUsingArray" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
