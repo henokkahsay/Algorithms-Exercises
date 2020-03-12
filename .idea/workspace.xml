@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CurrentDateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/Milliseconds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,22 +70,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CurrentDateTime">
+  <component name="RunManager" selected="Application.Milliseconds">
     <configuration name="CharString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CharString" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.Concat" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -122,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Milliseconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.Milliseconds" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Null" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.Null" />
       <module name="Algorithms Exercises" />
@@ -137,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Milliseconds" />
         <item itemvalue="Application.CurrentDateTime" />
         <item itemvalue="Application.Null" />
         <item itemvalue="Application.Contains" />
         <item itemvalue="Application.CharString" />
-        <item itemvalue="Application.Concat" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +191,7 @@
       <workItem from="1583913365322" duration="21000" />
       <workItem from="1583913544589" duration="465000" />
       <workItem from="1583997360854" duration="130000" />
-      <workItem from="1584000891332" duration="5646000" />
+      <workItem from="1584000891332" duration="5944000" />
     </task>
     <servers />
   </component>
