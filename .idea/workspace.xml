@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/Concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/CharString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,9 +70,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Concat">
+  <component name="RunManager" selected="Application.CharString">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.Array" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CharString" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -122,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Whitespaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.Whitespaces" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharString" />
         <item itemvalue="Application.Concat" />
         <item itemvalue="Application.Decimal" />
         <item itemvalue="Application.TimeString" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.Whitespaces" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +191,7 @@
       <workItem from="1583913365322" duration="21000" />
       <workItem from="1583913544589" duration="465000" />
       <workItem from="1583997360854" duration="130000" />
-      <workItem from="1584000891332" duration="3896000" />
+      <workItem from="1584000891332" duration="4294000" />
     </task>
     <servers />
   </component>
