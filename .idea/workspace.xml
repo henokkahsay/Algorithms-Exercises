@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/MapList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ArraySet.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,9 +69,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapList">
-    <configuration name="AddDates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.AddDates" />
+  <component name="RunManager" selected="Application.ArraySet">
+    <configuration name="ArraySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ArraySet" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySet" />
         <item itemvalue="Application.MapList" />
         <item itemvalue="Application.CurrDirectory" />
         <item itemvalue="Application.ListArray" />
         <item itemvalue="Application.JoinLists" />
-        <item itemvalue="Application.AddDates" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +191,7 @@
       <workItem from="1583913544589" duration="465000" />
       <workItem from="1583997360854" duration="130000" />
       <workItem from="1584000891332" duration="7172000" />
-      <workItem from="1584021186892" duration="1839000" />
+      <workItem from="1584021186892" duration="2065000" />
     </task>
     <servers />
   </component>
