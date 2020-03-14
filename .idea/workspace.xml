@@ -70,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ByteHex">
+  <component name="RunManager" selected="Application.FileString">
     <configuration name="ArraySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ArraySet" />
       <module name="Algorithms Exercises" />
@@ -110,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ListArray" />
+    <configuration name="FileString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.FileString" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileString" />
         <item itemvalue="Application.ByteHex" />
         <item itemvalue="Application.ArraySet" />
         <item itemvalue="Application.MapList" />
         <item itemvalue="Application.CurrDirectory" />
-        <item itemvalue="Application.ListArray" />
       </list>
     </recent_temporary>
   </component>
