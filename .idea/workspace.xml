@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ByteHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/EnumString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,9 +70,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OutputStreamString">
-    <configuration name="AppendFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.AppendFile" />
+  <component name="RunManager" selected="Application.EnumString">
+    <configuration name="EnumString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.EnumString" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumString" />
         <item itemvalue="Application.OutputStreamString" />
         <item itemvalue="Application.InputStreamString" />
         <item itemvalue="Application.FileByte" />
         <item itemvalue="Application.PrintStackTrace" />
-        <item itemvalue="Application.AppendFile" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +193,7 @@
       <workItem from="1583997360854" duration="130000" />
       <workItem from="1584000891332" duration="7172000" />
       <workItem from="1584021186892" duration="2065000" />
+      <workItem from="1584178035077" duration="703000" />
     </task>
     <servers />
   </component>
