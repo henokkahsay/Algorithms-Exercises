@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/ListAllFilesUsingListMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/RenameFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromProgramizwebsiteExercises/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms Exercises/FromProgramizwebsiteExercises/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,9 +73,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CompareStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CompareStrings" />
+  <component name="RunManager" selected="Application.ListAllFilesUsingListMethod">
+    <configuration name="InputStreamString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.InputStreamString" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CustomObject" />
+    <configuration name="ListAllFilesUsingListMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ListAllFilesUsingListMethod" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.SortMap" />
+    <configuration name="RenameFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.RenameFile" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListAllFilesUsingListMethod" />
+        <item itemvalue="Application.RenameFile" />
+        <item itemvalue="Application.InputStreamString" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Numeric" />
-        <item itemvalue="Application.CustomObject" />
-        <item itemvalue="Application.SortMap" />
-        <item itemvalue="Application.CompareStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +198,7 @@
       <workItem from="1584021186892" duration="2065000" />
       <workItem from="1584178035077" duration="703000" />
       <workItem from="1584215094654" duration="1193000" />
+      <workItem from="1584217803480" duration="427000" />
     </task>
     <servers />
   </component>
