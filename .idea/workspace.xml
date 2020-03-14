@@ -70,22 +70,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileByte">
+  <component name="RunManager" selected="Application.InputStreamString">
     <configuration name="AppendFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.AppendFile" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ByteHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ByteHex" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -123,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InputStreamString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.InputStreamString" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromProgramizwebsiteExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintStackTrace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.PrintStackTrace" />
       <module name="Algorithms Exercises" />
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputStreamString" />
         <item itemvalue="Application.FileByte" />
         <item itemvalue="Application.PrintStackTrace" />
         <item itemvalue="Application.AppendFile" />
         <item itemvalue="Application.FileString" />
-        <item itemvalue="Application.ByteHex" />
       </list>
     </recent_temporary>
   </component>
