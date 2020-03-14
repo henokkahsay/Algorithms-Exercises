@@ -70,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InputStreamString">
+  <component name="RunManager" selected="Application.OutputStreamString">
     <configuration name="AppendFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.AppendFile" />
       <module name="Algorithms Exercises" />
@@ -97,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.FileString" />
+    <configuration name="InputStreamString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.InputStreamString" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputStreamString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.InputStreamString" />
+    <configuration name="OutputStreamString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.OutputStreamString" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutputStreamString" />
         <item itemvalue="Application.InputStreamString" />
         <item itemvalue="Application.FileByte" />
         <item itemvalue="Application.PrintStackTrace" />
         <item itemvalue="Application.AppendFile" />
-        <item itemvalue="Application.FileString" />
       </list>
     </recent_temporary>
   </component>
