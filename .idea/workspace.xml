@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/Numeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromProgramizwebsiteExercises/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Numeric">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CompareStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.CompareStrings" />
       <module name="Algorithms Exercises" />
@@ -97,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.EnumString" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.Main" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Numeric" />
         <item itemvalue="Application.CustomObject" />
         <item itemvalue="Application.SortMap" />
         <item itemvalue="Application.CompareStrings" />
-        <item itemvalue="Application.EnumString" />
       </list>
     </recent_temporary>
   </component>
