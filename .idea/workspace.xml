@@ -70,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintStackTrace">
+  <component name="RunManager" selected="Application.FileByte">
     <configuration name="AppendFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.AppendFile" />
       <module name="Algorithms Exercises" />
@@ -84,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ArraySet" />
+    <configuration name="ByteHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ByteHex" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ByteHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.ByteHex" />
+    <configuration name="FileByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.FileByte" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileByte" />
         <item itemvalue="Application.PrintStackTrace" />
         <item itemvalue="Application.AppendFile" />
         <item itemvalue="Application.FileString" />
         <item itemvalue="Application.ByteHex" />
-        <item itemvalue="Application.ArraySet" />
       </list>
     </recent_temporary>
   </component>
