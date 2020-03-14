@@ -70,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppendFile">
+  <component name="RunManager" selected="Application.PrintStackTrace">
     <configuration name="AppendFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.AppendFile" />
       <module name="Algorithms Exercises" />
@@ -123,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.MapList" />
+    <configuration name="PrintStackTrace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromProgramizwebsiteExercises.PrintStackTrace" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintStackTrace" />
         <item itemvalue="Application.AppendFile" />
         <item itemvalue="Application.FileString" />
         <item itemvalue="Application.ByteHex" />
         <item itemvalue="Application.ArraySet" />
-        <item itemvalue="Application.MapList" />
       </list>
     </recent_temporary>
   </component>
