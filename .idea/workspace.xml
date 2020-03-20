@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/BitonicSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/EquilibriumIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindIndexOfZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMaximumProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaxDefferenceOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaxLengthSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaxLengthSubArrayHavingEqualNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MergeTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/PrintallSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/Rearrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/Shuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/SortBinaryArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/ThreeWayPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/Util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newName" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxDefferenceOfTwoNumbers">
+  <component name="RunManager" selected="Application.Kadanes">
     <configuration name="BitonicSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromMediumSite.BitonicSubarray" />
       <module name="Algorithms Exercises" />
@@ -106,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EquilibriumIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.EquilibriumIndex" />
+    <configuration name="Kadanes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.Kadanes" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kadanes" />
         <item itemvalue="Application.MaxDefferenceOfTwoNumbers" />
         <item itemvalue="Application.BitonicSubarray" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MajorityElement" />
-        <item itemvalue="Application.EquilibriumIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +200,7 @@
       <workItem from="1584604914260" duration="2325000" />
       <workItem from="1584694371005" duration="2718000" />
       <workItem from="1584728197656" duration="6342000" />
+      <workItem from="1584735557745" duration="22000" />
     </task>
     <servers />
   </component>
