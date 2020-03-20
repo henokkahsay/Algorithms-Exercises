@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/DistinctCombinations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,9 +71,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Kadanes">
+  <component name="RunManager" selected="Application.DistinctCombinations">
     <configuration name="BitonicSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromMediumSite.BitonicSubarray" />
+      <module name="Algorithms Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FromMediumSite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistinctCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.DistinctCombinations" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -109,19 +124,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.MajorityElement" />
-      <module name="Algorithms Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FromMediumSite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MaxDefferenceOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FromMediumSite.MaxDefferenceOfTwoNumbers" />
       <module name="Algorithms Exercises" />
@@ -137,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DistinctCombinations" />
         <item itemvalue="Application.Kadanes" />
         <item itemvalue="Application.MaxDefferenceOfTwoNumbers" />
         <item itemvalue="Application.BitonicSubarray" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MajorityElement" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +202,7 @@
       <workItem from="1584604914260" duration="2325000" />
       <workItem from="1584694371005" duration="2718000" />
       <workItem from="1584728197656" duration="6342000" />
-      <workItem from="1584735557745" duration="22000" />
+      <workItem from="1584735557745" duration="1017000" />
     </task>
     <servers />
   </component>
