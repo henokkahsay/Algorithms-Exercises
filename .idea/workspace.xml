@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/DistinctCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindLargestNumberPossible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindLengthOfSmallestSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMaximumSumPathInvolvingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMinSumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindSmallestWindowInArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/LongestSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/SubarrayHavingGivenSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -71,9 +77,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DistinctCombinations">
-    <configuration name="BitonicSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.BitonicSubarray" />
+  <component name="RunManager" selected="Application.FindMaximumSumPathInvolvingElements">
+    <configuration name="FindLargestNumberPossible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindLargestNumberPossible" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistinctCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.DistinctCombinations" />
+    <configuration name="FindLengthOfSmallestSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindLengthOfSmallestSubarray" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kadanes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.Kadanes" />
+    <configuration name="FindMaximumSumPathInvolvingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindMaximumSumPathInvolvingElements" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.Main" />
+    <configuration name="FindMinSumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindMinSumSubarray" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDefferenceOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.MaxDefferenceOfTwoNumbers" />
+    <configuration name="FindSmallestWindowInArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindSmallestWindowInArraySorting" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DistinctCombinations" />
-        <item itemvalue="Application.Kadanes" />
-        <item itemvalue="Application.MaxDefferenceOfTwoNumbers" />
-        <item itemvalue="Application.BitonicSubarray" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FindMaximumSumPathInvolvingElements" />
+        <item itemvalue="Application.FindSmallestWindowInArraySorting" />
+        <item itemvalue="Application.FindLargestNumberPossible" />
+        <item itemvalue="Application.FindLengthOfSmallestSubarray" />
+        <item itemvalue="Application.FindMinSumSubarray" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +208,8 @@
       <workItem from="1584604914260" duration="2325000" />
       <workItem from="1584694371005" duration="2718000" />
       <workItem from="1584728197656" duration="6342000" />
-      <workItem from="1584735557745" duration="1017000" />
+      <workItem from="1584735557745" duration="1226000" />
+      <workItem from="1584775493632" duration="2799000" />
     </task>
     <servers />
   </component>
