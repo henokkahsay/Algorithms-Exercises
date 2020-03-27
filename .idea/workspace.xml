@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindLargestNumberPossible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindLengthOfSmallestSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMaximumSumPathInvolvingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMinSumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindSmallestWindowInArraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/LongestSeq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/SubarrayHavingGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/ActivitySelectionProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindKthLargestElementIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMaximumProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMinimumNumberOfPlatforms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/JobSequencingProblemWithDeadlines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/LengthOfLongestContinuousSequenceWithSameSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaxSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaximumProfitEarnedByBuyingAndSelling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MergingOverLappingIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/TrappingRainWaterWithinGivenSetOfBars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -77,9 +80,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindMaximumSumPathInvolvingElements">
-    <configuration name="FindLargestNumberPossible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindLargestNumberPossible" />
+  <component name="RunManager" selected="Application.SortAkSortedArray">
+    <configuration name="ActivitySelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.ActivitySelection" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLengthOfSmallestSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindLengthOfSmallestSubarray" />
+    <configuration name="FindKthLargestElementIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindKthLargestElementIn" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMaximumSumPathInvolvingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindMaximumSumPathInvolvingElements" />
+    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.MergeIntervals" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinSumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindMinSumSubarray" />
+    <configuration name="Scheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.Scheduler" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSmallestWindowInArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.FindSmallestWindowInArraySorting" />
+    <configuration name="SortAkSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.SortAkSortedArray" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindMaximumSumPathInvolvingElements" />
-        <item itemvalue="Application.FindSmallestWindowInArraySorting" />
-        <item itemvalue="Application.FindLargestNumberPossible" />
-        <item itemvalue="Application.FindLengthOfSmallestSubarray" />
-        <item itemvalue="Application.FindMinSumSubarray" />
+        <item itemvalue="Application.SortAkSortedArray" />
+        <item itemvalue="Application.FindKthLargestElementIn" />
+        <item itemvalue="Application.Scheduler" />
+        <item itemvalue="Application.MergeIntervals" />
+        <item itemvalue="Application.ActivitySelection" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +212,10 @@
       <workItem from="1584694371005" duration="2718000" />
       <workItem from="1584728197656" duration="6342000" />
       <workItem from="1584735557745" duration="1226000" />
-      <workItem from="1584775493632" duration="2799000" />
+      <workItem from="1584775493632" duration="3489000" />
+      <workItem from="1584953092018" duration="360000" />
+      <workItem from="1585294605717" duration="8000" />
+      <workItem from="1585294690965" duration="3281000" />
     </task>
     <servers />
   </component>
@@ -255,6 +261,11 @@
           <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/GcdOfTwoNumbersUsingRecursion.java</url>
           <line>4</line>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FromMediumSite/TrappingRainWaterWithinGivenSetOfBars.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/FindGcdOfTwoNumbers.java</url>
