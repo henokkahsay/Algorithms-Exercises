@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/ActivitySelectionProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindKthLargestElementIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMaximumProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMinimumNumberOfPlatforms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/JobSequencingProblemWithDeadlines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/LengthOfLongestContinuousSequenceWithSameSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaxSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaximumProfitEarnedByBuyingAndSelling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MergingOverLappingIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/TrappingRainWaterWithinGivenSetOfBars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +202,7 @@
       <workItem from="1584775493632" duration="3489000" />
       <workItem from="1584953092018" duration="360000" />
       <workItem from="1585294605717" duration="8000" />
-      <workItem from="1585294690965" duration="3281000" />
+      <workItem from="1585294690965" duration="3877000" />
     </task>
     <servers />
   </component>
