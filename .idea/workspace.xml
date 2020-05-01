@@ -2,24 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add59180-1dab-4ead-aa0d-22504db76b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/CustomSortElementByTheirFrequencyAndIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindGivenSumInGivenArrayofIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindKthSmallestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindLargestNumberPossibleFromGivenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindLengthOfSmallestSubarrayWhoseSumOfElementsIsGreaterThanTheGivenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMaxSequenceOfContinuous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMaximumProductSubarrayInGivenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMaximumSumOfSubsequenceWithNoAdjacentElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMaximumSumPathInvolvingElementsOfGivenArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMinimumSumSubarrayGivenSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindSmallestRangeWithLeastElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindSmallestWindowInArraySortingWhichWillMakeEntireArrayStored.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/LengthOfLongestContinuousSequenceWithSameSumGivenBinaryArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaximumProfitEarnedByBuyingAndSellingSharesAnyNumberOfTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MergeMSortedListsEachContainingNElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MergeMSortedListsOfVariableLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/ToFindAllDistinctCombinationsGivenLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/BinarySearchAlgorithmRecursiveAndInterativeImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/Ceilfloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/CircularArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/CombinationsOfWordsNumbersWithCorrespondingAlphabets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/CustomSortArrayBasedOnAnotherArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/Decode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindMinimumAndMaximumElementInArrayUsingMinimumComparisons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindNumberOfFirstInSortedBinaryArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindNumberOfRotationsInCircularlySortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FindPeakElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/FirstOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/InversionCountOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/KnapSack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/LongestSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MatrixChainMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaximizeValueOfExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MaximumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MinCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MinPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/MincoinsSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/RodCutting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/SegregatePositiveAndNegativeIntegersInLinearTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/SmallestMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FromMediumSite/SubsetSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,9 +96,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mainn">
-    <configuration name="ActivitySelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.ActivitySelection" />
+  <component name="RunManager" selected="Application.Combinations">
+    <configuration name="Combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.Combinations" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mainn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.Mainn" />
+    <configuration name="CombinationsOfWordsNumbersWithCorrespondingAlphabets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.CombinationsOfWordsNumbersWithCorrespondingAlphabets" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.MergeIntervals" />
+    <configuration name="Decode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.Decode" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.MergeLists" />
+    <configuration name="LongestSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.LongestSequence" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mergee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FromMediumSite.Mergee" />
+    <configuration name="MincoinsSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FromMediumSite.MincoinsSecond" />
       <module name="Algorithms Exercises" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mainn" />
-        <item itemvalue="Application.MergeLists" />
-        <item itemvalue="Application.Mergee" />
-        <item itemvalue="Application.ActivitySelection" />
-        <item itemvalue="Application.MergeIntervals" />
+        <item itemvalue="Application.Combinations" />
+        <item itemvalue="Application.Decode" />
+        <item itemvalue="Application.CombinationsOfWordsNumbersWithCorrespondingAlphabets" />
+        <item itemvalue="Application.LongestSequence" />
+        <item itemvalue="Application.MincoinsSecond" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +235,9 @@
       <workItem from="1585813656784" duration="610000" />
       <workItem from="1586246561923" duration="3744000" />
       <workItem from="1586845663575" duration="8237000" />
-      <workItem from="1586933199699" duration="2696000" />
+      <workItem from="1586933199699" duration="4683000" />
+      <workItem from="1587720572803" duration="701000" />
+      <workItem from="1588323918493" duration="4886000" />
     </task>
     <servers />
   </component>
@@ -272,11 +283,6 @@
           <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/GcdOfTwoNumbersUsingRecursion.java</url>
           <line>4</line>
           <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FromMediumSite/LongestSeq.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/FromProgramizwebsiteExercises/FindGcdOfTwoNumbers.java</url>
